@@ -1,7 +1,7 @@
-terraform {
-  backend "s3" {
-    bucket = ""
-    region = ""
-    key    = "tfstate"
-  }
-}
+# terraform {
+#   backend "s3" {
+#     bucket = ""
+#     region = ""
+#     key    = "tfstate"
+#   }
+# }
